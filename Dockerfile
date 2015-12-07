@@ -1,4 +1,4 @@
-FROM java:8u40-b22-jdk
+FROM java:7
 MAINTAINER Patrick Huetter <p.huetter@encircle360.com>
 
 ENTRYPOINT ["sdkman-exec.sh"]
