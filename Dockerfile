@@ -1,5 +1,5 @@
 FROM java:7
-MAINTAINER Patrick Huetter <p.huetter@encircle360.com>
+MAINTAINER Roni Thomas <ronicthomas@gmail.com>
 
 ENTRYPOINT ["sdkman-exec.sh"]
 
